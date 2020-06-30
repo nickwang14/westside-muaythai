@@ -13,8 +13,8 @@ More recently taken up as a competitive sport, Muay Thai offers a fun way to lea
 
 We offer classes for all fitness and experience levels, from a competition team to private women's only closed sessions.
 
-Our trainers have real experience from all around the world with an unrivaled passion for the sport, making sure that you get the most out of every session.\
-\
-`Please note that we are currently closed as per Covid-19 guidelines, but we are well on our way to re-opening with precautions pending Ontario's Phase III opening!`\
-``\
+Our trainers have real experience from all around the world with an unrivaled passion for the sport, making sure that you get the most out of every session.
+
+`Please note that we are currently closed as per Covid-19 guidelines, but we are well on our way to re-opening with precautions pending Ontario's Phase III opening!`
+
 `In the meantime, feel free to contact us and inquire about our online zoom classes`
