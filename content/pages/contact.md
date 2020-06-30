@@ -1,18 +1,9 @@
 ---
 title: Contact us
-subtitle: ''
-featuredImage: '/images/uploads/mark-chang-74-3.jpg'
-address: 404 James St, Burleigh Heads QLD 4220
-phone: 0987 123 456
-email: example@example.com
+featuredImage: /images/uploads/westside-women-2.jpg
+subtitle: Join today, or ask us anything!
+address: 1306 Wellington St. W, Ottawa, ON K1Y 3B6
+phone: (613) 863-4456
+email: siamottawa@gmail.com
 ---
-
-# Example contact form
-
-This form is setup to use Netlify's form handling:
-
-* the form action is set to the current absolute url: `action: '/contact/'`
-* a name attribute is sent with the form's data `'form-name': 'Contact'`
-* netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+# Our Info
