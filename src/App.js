@@ -5,9 +5,9 @@ import Helmet from 'react-helmet'
 import ScrollToTop from './components/ScrollToTop'
 import Meta from './components/Meta'
 import Home from './views/Home'
-import About from './views/About'
-import Blog from './views/Blog'
-import SinglePost from './views/SinglePost'
+// import About from './views/About'
+// import Blog from './views/Blog'
+// import SinglePost from './views/SinglePost'
 import Contact from './views/Contact'
 import NoMatch from './views/NoMatch'
 import Nav from './components/Nav'
@@ -51,13 +51,13 @@ class App extends Component {
       headerScripts
     } = globalSettings
 
-    const posts = this.getDocuments('posts').filter(
-      post => post.status !== 'Draft'
-    )
-    const categoriesFromPosts = getCollectionTerms(posts, 'categories')
-    const postCategories = this.getDocuments('postCategories').filter(
-      category => categoriesFromPosts.indexOf(category.name.toLowerCase()) >= 0
-    )
+    // const posts = this.getDocuments('posts').filter(
+    //   post => post.status !== 'Draft'
+    // )
+    // const categoriesFromPosts = getCollectionTerms(posts, 'categories')
+    // const postCategories = this.getDocuments('postCategories').filter(
+    //   category => categoriesFromPosts.indexOf(category.name.toLowerCase()) >= 0
+    // )
 
     return (
       <Router>
@@ -76,12 +76,12 @@ class App extends Component {
               socialMediaCard.image &&
               siteUrl + socialMediaCard.image
             }
-            twitterCreatorAccount={
-              socialMediaCard && socialMediaCard.twitterCreatorAccount
-            }
-            twitterSiteAccount={
-              socialMediaCard && socialMediaCard.twitterSiteAccount
-            }
+            // twitterCreatorAccount={
+            //   socialMediaCard && socialMediaCard.twitterCreatorAccount
+            // }
+            // twitterSiteAccount={
+            //   socialMediaCard && socialMediaCard.twitterSiteAccount
+            // }
           />
 
           <Nav />
@@ -94,12 +94,12 @@ class App extends Component {
               description={siteDescription}
               fields={this.getDocument('pages', 'home')}
             />
-            <RouteWithMeta
+            {/* <RouteWithMeta
               path='/about/'
               exact
               component={About}
               fields={this.getDocument('pages', 'about')}
-            />
+            /> */}
             <RouteWithMeta
               path='/contact/'
               exact
@@ -107,16 +107,16 @@ class App extends Component {
               fields={this.getDocument('pages', 'contact')}
               siteTitle={siteTitle}
             />
-            <RouteWithMeta
+            {/* <RouteWithMeta
               path='/blog/'
               exact
               component={Blog}
               fields={this.getDocument('pages', 'blog')}
               posts={posts}
               postCategories={postCategories}
-            />
+            /> */}
 
-            {posts.map((post, index) => {
+            {/* {posts.map((post, index) => {
               const path = slugify(`/blog/${post.title}`)
               const nextPost = posts[index - 1]
               const prevPost = posts[index + 1]
@@ -150,7 +150,7 @@ class App extends Component {
                   postCategories={postCategories}
                 />
               )
-            })}
+            })} */}
 
             <Route render={() => <NoMatch siteUrl={siteUrl} />} />
           </Switch>
