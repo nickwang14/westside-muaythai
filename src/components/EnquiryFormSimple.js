@@ -11,7 +11,7 @@ export default ({
     className='EnquiryForm'
     name={name}
     action={action}
-    data-netlify=''
+    data-netlify='true'
     data-netlify-honeypot='_gotcha'
   >
     <label className='EnquiryForm--Label'>

@@ -36,7 +36,7 @@ I aim to include commonly used components and best-practices e.g. forms, setting
 
 ## Show me the CMS!
 
-The CMS lives at [\_\_YOUR_SITE_NAME\_\_.netlify.com/admin](https://__YOUR_SITE_NAME__.netlify.com/admin).
+The CMS lives at [westsidemuaythai.netlify.app/admin](https:westsidemuaythai.netlify.app/admin).
 
 ## Developing
 
