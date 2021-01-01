@@ -1,5 +1,5 @@
 ---
 title: Our Schedule
 ---
-  ![Image test](/images/uploads/schedule.jpg)
+  ![Class Schedule](/images/uploads/schedule.jpg)
   
