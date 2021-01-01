@@ -1,5 +1,5 @@
 ---
-title: Coronavirus Measure
+title: Coronavirus Measures
 featuredImage: /images/uploads/mask.jpg
 subtitle: Doing our part to flatten the curve while staying active
 meta:
