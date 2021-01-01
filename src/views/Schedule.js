@@ -13,7 +13,6 @@ export default ({ fields }) => {
         title={title}
         subtitle={subtitle}
       />
-
       <div className='section'>
         <div className='container'>
           <Content source={body} />

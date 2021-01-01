@@ -19,4 +19,5 @@ Our trainers have real experience from all around the world with an unrivaled pa
 
 We are operating under the [Muaythai Ontario](https://muaythaiontario.org/) Guidelines to be compliant with government pandemic opening safety standards. Please visit [our safety page](https://westsidemuaythai.com/covid) and follow the steps in order to join us for training.
 
-[![Image test](/images/uploads/NewYearPromo.png)](https://westsidemuaythai.com/contact)
+## We are offering discounts on full year and half year memberships for reopening
+[Contact us](https://westsidemuaythai.com/contact) for details!
