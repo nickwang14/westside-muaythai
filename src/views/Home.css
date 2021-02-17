@@ -1,2 +1,10 @@
 .Home {
 }
+img[alt$='#left'] {
+    float: left;
+    margin-right: 10px;
+}
+img[alt$='#right'] {
+    float: right;
+    margin-left: 10px;
+}
