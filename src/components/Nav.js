@@ -29,8 +29,8 @@ export default ({ handlePopupOpen }) => (
       <NavLink to='/covid/' exact>
         Covid
       </NavLink>
-      <NavLink to='/privates/' exact>
-        Privates
+      <NavLink to='/personaltraining/' exact>
+        Personal Training
       </NavLink>
     </div>
   </nav>
