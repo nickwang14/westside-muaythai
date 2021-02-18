@@ -2,15 +2,107 @@
   background: white;
   position: sticky;
   top: 0;
+  width: 100vw;
+  height: 6.5rem;
   z-index: 1;
 }
 
 .Nav--Container {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   height: 6rem;
 }
 
 .Nav .Logo {
-  margin-right: 3rem;
+  margin-left: 3rem;
+  margin-top: 1rem;
+  display: inline-flex;
 }
+
+.Mobile--Nav {
+  border-radius: 2px;
+  margin: .25rem;
+  height: 6rem;
+  float: right;
+  width: 6rem;
+  background-color: white;
+}
+
+@media screen and (max-width: 650px) {
+  .Nav--Container {
+    display: block;
+    background-color: white;
+    height: 65vh;
+    width: 100%;
+    border-radius: 5px;
+  }
+  .Nav .Logo {
+    margin-left: 1rem;
+    margin-top: 0;
+  }
+}
+
+.fade-in {
+  animation: fadeIn ease .5s;
+  -webkit-animation: fadeIn ease .5s;
+  -moz-animation: fadeIn ease .5s;
+  -o-animation: fadeIn ease .5s;
+  -ms-animation: fadeIn ease .5s;
+}
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+  
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}  
+  
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+  
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+  
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+.fade-out {
+  animation: fadeOut ease .5s;
+  -webkit-animation: fadeOut ease .5s;
+  -moz-animation: fadeOut ease .5s;
+  -o-animation: fadeOut ease .5s;
+  -ms-animation: fadeOut ease .5s;
+}
+@keyframes fadeOut {
+  100% {opacity:1;}
+  0% {opacity:0;}
+}
+
+@-moz-keyframes fadeOut {
+  100% {opacity:1;}
+  0% {opacity:0;}
+}
+
+@-webkit-keyframes fadeOut {
+  100% {opacity:1;}
+  0% {opacity:0;}
+}
+
+@-o-keyframes fadeOut {
+  100% {opacity:1;}
+  0% {opacity:0;}
+}
+
+@-ms-keyframes fadeOut {
+  100% {opacity:1;}
+  0% {opacity:0;}
+}
+
