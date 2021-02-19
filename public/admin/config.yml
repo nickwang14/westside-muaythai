@@ -160,7 +160,17 @@ collections: # A list of collections the CMS should be able to edit
   #         - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
   #         - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
   #         - {label: Noindex, name: noindex, widget: boolean, required: false}
-
+      - file: "content/pages/personaltraining.md"
+        label: "Personal Training Page"
+        name: "personal-training-page"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Subtitle, name: subtitle, widget: markdown}
+          - {label: Body, name: body, widget: markdown}
+          - label: "Meta"
+            required: false
+            name: "meta"
 
   - name: "settings"
     label: "Settings"
@@ -180,7 +190,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - {label: Image, name: image, widget: image, required: false}
-              - {label: Twitter Site Account, name: twitterSiteAccount, widget: string, required: false}
-              - {label: Twitter Creator Account, name: twitterCreatorAccount, widget: string, required: false}
+              - {label: Instagram Site Account, name: instagramSiteAccount, widget: string, required: false}
+              - {label: Facebook Site Account, name: facebookSiteAccount, widget: string, required: false}
           - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
           - {label: Enable Service Worker Pre-Cache, name: enableServiceWorker, widget: boolean, required: false}

@@ -29,15 +29,19 @@ Come in with a group and receive instruction from an instructor`
 
 # Our Instructors
 
+![image alt #left](/images/uploads/andregym.jpg)
 ## Andre Tokarcyk
    Andre started his Muay Thai Journey at Westside and is now a junior instructor with fight experience who breaks down skills and helps students improve quickly. Andre is passionate about helping people at all levels improve their skills and find the same joy he found in Muay Thai.
 
+![image alt #right](/images/uploads/antoniothumbs.jpg)
 ## Antonio Arnold
    40 fights, multiple professional fights in Canada and Thailand. Antonio is a skilled technical fighter who is great at breaking down techniques. He has won the World Kickboxing Federation international title, and the Ontario provincial championship. Antonio is an instructor with great depth and understanding of Thai culture and competitive scoring in both North America and Thailand.
 
+![image alt #left](/images/uploads/benpride.jpg)
 ## Ben Pride
    World Muaythai Council International Champion, USKA Champion, Victory Muaythai Champion (Montreal). Ben has 40 fights and fought professionally on some of the biggest international shows across the Americas and Thailand. Ben teaches any skill level and tailors to different body style, personally responsible for the success of some of our fighters.
 
+![image alt #right](/images/uploads/grambelt.jpg)
 ## Gram Stuart
    Max Muay Thai Wednesday Champion and TBA Champion, Gram's fought all over the world from the US, to Italy, and Thailand. He has extensive experience teaching and is great for those who learn by doing.
 
@@ -59,6 +63,7 @@ Come in with a group and receive instruction from an instructor`
 ## Menad Sekhi
    Menad has been passionate about martial his entire life and started training Muay Thai in 2010. Since then he's competed multiples times with 3 wins coming by KO/TKO. 2015 TBA champion and 2016 WKF champion. His teaching style is built upon the authentic Westside Muay Thai training regiment with an emphasis on physical condition and using boxing techniques to add versatility to the students toolbox of Muay Thai weapons.
 
+![image alt #left](/images/uploads/nickpose.jpg)
 ## Nick Wang
    2 Time TBA Champion, Nick has experience fighting in Thailand and competing with some of the top talent in his weight class here in Canada. With experience teaching a number of sports, Nick tailors his sessions to each student to help them improve as sustainably as posssible. He focuses on fundamentals and clean technique to help establish a strong base for beautiful, effective Muay Thai.
 

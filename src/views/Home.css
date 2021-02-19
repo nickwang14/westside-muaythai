@@ -1,12 +1,2 @@
 .Home {
 }
-img[alt$='#left'] {
-    float: left;
-    margin-right: 10px;
-    max-height: 40px;
-}
-img[alt$='#right'] {
-    float: right;
-    margin-left: 10px;
-    max-height: 40px;
-}
