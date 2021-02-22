@@ -10,12 +10,12 @@ import './Nav.css'
 
 export default () => {
   const [windowDimensions, setWindowDimensions] = useState(getWindowDimensions());
-  const [showNav, setShowNav] = useState(windowDimensions.width > 650)
+  const [showNav, setShowNav] = useState(windowDimensions.width > 700)
 
   useEffect(() => {
     function handleResize() {
       setWindowDimensions(getWindowDimensions());
-      setShowNav(windowDimensions.width > 650)
+      setShowNav(windowDimensions.width > 700)
     }
 
     window.addEventListener('resize', handleResize);
@@ -26,7 +26,7 @@ export default () => {
 
   return (
     <nav className='Nav fade-in fade-out'>
-      {windowDimensions.width <= 650 && <MobileNav onClick={expandNav}/>}
+      {windowDimensions.width <= 700 && <MobileNav onClick={expandNav}/>}
       {showNav && <NavBar onClick={expandNav}/>}
     </nav>
   )
@@ -56,8 +56,11 @@ const NavBar = () =>
   <NavLink to='/covid/' exact>
     Covid
   </NavLink>
-  <NavLink to='/personaltraining/' exact>
-    Personal Training
+  <NavLink to='/instructors/' exact>
+    Instructors
+  </NavLink>
+  <NavLink to='/services/' exact>
+    Services
   </NavLink>
 </div>
 

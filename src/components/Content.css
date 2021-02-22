@@ -1,5 +1,7 @@
 .Content {
   white-space: pre-line;
+  margin: auto;
+  max-width: 80%;
 }
 
 .Content--Image {

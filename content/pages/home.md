@@ -13,11 +13,11 @@ More recently taken up as a competitive sport, Muay Thai offers a fun way to lea
 
 We offer classes for all fitness and experience levels, from a competition team to women's only closed sessions.
 
-Our trainers have real experience from all around the world with an unrivaled passion for the sport, making sure that you get the most out of every session.
+[Our Trainers](https://westsidemuaythai.com/instructors) have real experience from all around the world with an unrivaled passion for the sport, making sure that you get the most out of every session.
 
 ## Important Steps To Train With Us
 
-We are operating under the [Muaythai Ontario](https://muaythaiontario.org/) Guidelines to be compliant with government pandemic opening safety standards. Please visit [our safety page](https://westsidemuaythai.com/covid) and follow the steps in order to join us for training.
+We are operating under the [Muaythai Ontario](https://muaythaiontario.org) Guidelines to be compliant with government pandemic opening safety standards. Please visit [our safety page](https://westsidemuaythai.com/covid) and follow the steps in order to join us for training.
 
 ## We are offering discounts on full year and half year memberships for reopening
 [Contact us](https://westsidemuaythai.com/contact) for details!
