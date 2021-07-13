@@ -5,6 +5,10 @@ subtitle: Ottawa's Most Authentic Muay Thai
 meta:
   title: ""
 ---
+# BACK OPEN AS OF MONDAY, JULY 19TH!!!
+
+We look forward to seeing all our past and future members as we return to regular classes, including pad drills and sparring! Class sizes will be limited to 15 people and pre-registration is required.
+
 # Making Friends and Memories while getting fit
 
 *Muay Thai* (มวยไทย), transliterated to english as 'Thai Boxing', is the art of 8 limbs. A combat sport where you can use Punches, Kicks, Knees, and Elbows to do damage to your opponent.
@@ -20,4 +24,5 @@ We offer classes for all fitness and experience levels, from a competition team 
 We are operating under the [Muaythai Ontario](https://muaythaiontario.org) Guidelines to be compliant with government pandemic opening safety standards. Please visit [our safety page](https://westsidemuaythai.com/covid) and follow the steps in order to join us for training.
 
 ## We are offering discounts on full year and half year memberships for reopening
+
 [Contact us](https://westsidemuaythai.com/contact) for details!
