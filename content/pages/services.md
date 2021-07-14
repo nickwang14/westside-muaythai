@@ -12,7 +12,7 @@ note: "![image alt #left](/images/uploads/andregym.jpg)"
 | ------------------ | ----------------- | ----------------------- |
 | 1 Year Membership  | $1248             | $864                    |
 | 6 Month Membership | $702              | $486                    |
-| Monthly Membership | $129.99           | $90                     |
+| Monthly Membership | $130              | $90                     |
 
 *Prices are subject to HST*
 
