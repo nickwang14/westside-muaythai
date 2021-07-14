@@ -6,10 +6,6 @@ meta:
   title: ""
 note: "![image alt #left](/images/uploads/andregym.jpg)"
 ---
-# Re-Opening Promotion
-
-***___For a limited time only___, the first 10 students to pre-purchase memberships in 2021 get a free private lesson from one of our participating instructors***
-
 # Membership Options
 
 | Options            | Muay Thai Program | Women's Only Kickboxing |
