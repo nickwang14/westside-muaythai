@@ -16,7 +16,7 @@ note: "![image alt #left](/images/uploads/andregym.jpg)"
 
 *Prices are subject to HST*
 
-All membership cancelations require 30 days notice.
+All membership cancelations require 30 days notice. No refunds on membership payments.  
 
 ## We also offer tiers of private lessons
 
