@@ -23,6 +23,4 @@ We offer classes for all fitness and experience levels, from a competition team 
 
 We are operating under the [Muaythai Ontario](https://muaythaiontario.org) Guidelines to be compliant with government pandemic opening safety standards. Please visit [our safety page](https://westsidemuaythai.com/covid) and follow the steps in order to join us for training.
 
-## We are offering discounts on full year and half year memberships for reopening
-
-[Contact us](https://westsidemuaythai.com/contact) for details!
+## Your first class is on us!
