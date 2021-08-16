@@ -8,11 +8,11 @@ note: "![image alt #left](/images/uploads/andregym.jpg)"
 ---
 # Membership Options
 
-| Options            | Muay Thai Program | Women's Only Kickboxing |
-| ------------------ | ----------------- | ----------------------- |
-| 1 Year Membership  | $1248             | $864                    |
-| 6 Month Membership | $702              | $486                    |
-| Monthly Membership | $130              | $90                     |
+| Options              | Muay Thai Program | Women's Only Kickboxing |
+| -------------------- | ----------------- | ----------------------- |
+| 1 Year Membership    | $1248             | $864                    |
+| 6 Month Membership   | $702              | $486                    |
+| Bi-weekly Membership | $64.99            | $45                     |
 
 *Prices are subject to HST*
 
