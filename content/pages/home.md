@@ -5,7 +5,9 @@ subtitle: Ottawa's Most Authentic Muay Thai
 meta:
   title: ""
 ---
-# BACK OPEN AS OF MONDAY, JULY 19TH!!!
+# CLOSED SEPTEMBER 6TH. OUR CLASS TIMES ARE CHANGING AS OF SEPTEMBER 7.
+
+
 
 We look forward to seeing all our past and future members as we return to regular classes, including pad drills and sparring! Class sizes will be limited to 15 people and pre-registration is required.
 
