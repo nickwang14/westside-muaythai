@@ -3,19 +3,14 @@ title: Westside Muaythai
 featuredImage: /images/uploads/westside.jpg
 subtitle: Ottawa's Most Authentic Muay Thai
 meta:
-  title: ""
+  title: ''
 ---
-# CLOSED SEPTEMBER 6TH. OUR CLASS TIMES ARE CHANGING AS OF SEPTEMBER 7.
 
-
-
-We look forward to seeing all our past and future members as we return to regular classes, including pad drills and sparring! Class sizes will be limited to 15 people and pre-registration is required.
-
-**We will be closed Monday August 2nd.**
+We look forward to seeing all our past and future members as we return to classes, including pad drills and sparring! Class sizes will be limited to 10 people and pre-registration is required.
 
 # Making Friends and Memories while getting fit
 
-*Muay Thai* (มวยไทย), transliterated to english as 'Thai Boxing', is the art of 8 limbs. A combat sport where you can use Punches, Kicks, Knees, and Elbows to do damage to your opponent.
+_Muay Thai_ (มวยไทย), transliterated to english as 'Thai Boxing', is the art of 8 limbs. A combat sport where you can use Punches, Kicks, Knees, and Elbows to do damage to your opponent.
 
 More recently taken up as a competitive sport, Muay Thai offers a fun way to learn about your body through movement and exercise. From HIIT style exercises, to in depth technical skills, we provide classes to help you develop your physical capabilities and learn about self defence in an interactive and fun way.
 
