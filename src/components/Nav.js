@@ -59,9 +59,9 @@ const NavBar = () =>
   <NavLink to='/instructors/' exact>
     Instructors
   </NavLink>
-  <NavLink to='/services/' exact>
+  {/* <NavLink to='/services/' exact>
     Services
-  </NavLink>
+  </NavLink> */}
 </div>
 
 

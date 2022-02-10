@@ -14,7 +14,7 @@ _Muay Thai_ (มวยไทย), transliterated to english as 'Thai Boxing', is
 
 More recently taken up as a competitive sport, Muay Thai offers a fun way to learn about your body through movement and exercise. From HIIT style exercises, to in depth technical skills, we provide classes to help you develop your physical capabilities and learn about self defence in an interactive and fun way.
 
-We offer classes for all fitness and experience levels, from a competition team to women's only closed sessions. See our available [memberships and services](https://westsidemuaythai.com/services)
+We offer classes for all fitness and experience levels, from a competition team to women's only closed sessions.
 
 [Our Trainers](https://westsidemuaythai.com/instructors) have real experience from all around the world with an unrivaled passion for the sport, making sure that you get the most out of every session.
 
