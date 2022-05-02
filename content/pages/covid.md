@@ -21,4 +21,4 @@ meta:
 6. Do not come to the gym if you are feeling under the weather, displaying any symptoms of COVID-19, or you have travelled outside the country in the last 14days
 
 Please be aware to follow rules according to Muay Thai Ontario's guidelines for member gyms.
-_For your first time at Westside Muaythai, please [Contact Us](www.westsidemuaythai.com/contact)_
+_For your first time at Westside Muaythai, please [Contact Us](/contact)_
