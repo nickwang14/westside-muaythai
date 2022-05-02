@@ -1,7 +1,7 @@
 ---
 title: Our Schedule
-featuredImage: /images/uploads/schedule-2021.jpg
-subtitle: Sign up for class using Acuity scheduling
+featuredImage: /images/uploads/schedule-2022-may.jpg
+subtitle:
 ---
 
-![Class Schedule](/images/uploads/schedule-2021.jpg)
+![Class Schedule](/images/uploads/schedule-2022-may.jpg)
