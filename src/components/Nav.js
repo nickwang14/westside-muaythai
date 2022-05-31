@@ -12,6 +12,18 @@ export default () => {
   const [windowDimensions, setWindowDimensions] = useState(getWindowDimensions());
   const [showNav, setShowNav] = useState(windowDimensions.width > 700)
 
+  // useEffect(() => {
+  //   window.addEventListener('resize', handleResize);
+  //   function handleResize() {
+  //     setWindowDimensions(getWindowDimensions());
+
+  //     setShowNav(windowDimensions.width > 700);
+  //   }
+
+  //   return () => window.removeEventListener('resize', handleResize);
+  // }, [windowDimensions]);
+
+
   useEffect(() => {
     function handleResize() {
       setWindowDimensions(getWindowDimensions());
@@ -23,25 +35,26 @@ export default () => {
   }, [windowDimensions]);
 
   const expandNav = () => setShowNav(!showNav)
+  const closeNav = () => setShowNav(false)
 
   return (
-    <nav className='Nav fade-in fade-out'>
+    <nav className='Nav'>
       {windowDimensions.width <= 700 && <MobileNav onClick={expandNav}/>}
-      {showNav && <NavBar onClick={expandNav}/>}
+      {showNav && <NavBar closeNav={closeNav}/>}
     </nav>
   )
 }
 
 
-const NavBar = () => 
-<div className='Nav--Container container fade-in fade-out'>
-  <Link to='/'>
+const NavBar = ({closeNav}) => 
+<div className='Nav--Container'>
+  <Link to='/' onClick={closeNav}>
     <Logo />
   </Link>
-  <NavLink style={{marginLeft:10}} to='/' exact>
+  <NavLink style={{marginLeft:10}} to='/' exact onClick={closeNav}>
     Home
   </NavLink>
-  <NavLink to='/schedule/' exact>
+  <NavLink to='/schedule/' exact onClick={closeNav}>
     Schedule
   </NavLink>
   {/* <NavLink to='/about/' exact>
@@ -50,13 +63,13 @@ const NavBar = () =>
   <NavLink to='/blog/' exact>
     Blog
   </NavLink> */}
-  <NavLink to='/contact/' exact>
+  <NavLink to='/contact/' exact onClick={closeNav}>
     Contact
   </NavLink>
   {/* <NavLink to='/covid/' exact>
     Covid
   </NavLink> */}
-  <NavLink to='/instructors/' exact>
+  <NavLink to='/instructors/' exact onClick={closeNav}>
     Instructors
   </NavLink>
   {/* <NavLink to='/services/' exact>
@@ -67,6 +80,6 @@ const NavBar = () =>
 
 
 const MobileNav = ({onClick}) =>
-  <button className='Mobile--Nav container fade-in fade-out' onClick={onClick}>
+  <button className='Mobile--Nav' onClick={onClick}>
     <FontAwesomeIcon icon={faBars} size='2x'/>
   </button>
