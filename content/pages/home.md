@@ -6,8 +6,6 @@ meta:
   title: ''
 ---
 
-We look forward to seeing all our past and future members as we return to classes, including pad drills and sparring! Class sizes will be limited to 10 people and pre-registration is required.
-
 # Making Friends and Memories while getting fit
 
 _Muay Thai_ (มวยไทย), transliterated to english as 'Thai Boxing', is the art of 8 limbs. A combat sport where you can use Punches, Kicks, Knees, and Elbows to do damage to your opponent.
