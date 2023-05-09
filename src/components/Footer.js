@@ -17,14 +17,19 @@ export default ({ globalSettings, socialSettings, navLinks }) => {
     return () => window.removeEventListener('resize', handleResize);
   }, []);
   
-  const currentDate = Date.now().toLocaleString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
+  const currentDate = new Date.toLocaleString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
 
   return (
     <footer className='Footer'>
       <div className='container item'>
+        <div className='social'>
         <span>© 2021 All rights reserved.</span>
-        <>This page was last updated: {currentDate}</>
+        </div>
+        <div className='social'>
+        <span>This page was last updated: {currentDate}</span>
+        </div>
       </div>
+
       <div className='container item'>
         <div className='social'>
           <a className='social' href='https://www.facebook.com/westsidemuaythaiottawa'>
