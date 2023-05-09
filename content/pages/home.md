@@ -46,7 +46,7 @@ Not at all, our classes are set up so you can hop in and start working out right
 
 That depends on your goals, for all intents and purposes, the answer is no. Come in, have fun hitting stuff, and watch yourself get in shape while you learn a new skill!
 
-If you're looking to compete, know that being in shape is a baseline requirement. Practicing muaythai is quite safe, but competeting can be quite dangerous if you're not ready to defend yourself.
+If you're looking to compete, know that being in shape is a baseline requirement. Practicing muaythai is quite safe, but competing can be quite dangerous if you're not ready to defend yourself.
 
 ## Are there any age restrictions to practice muaythai?
 
