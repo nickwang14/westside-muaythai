@@ -18,16 +18,6 @@ We offer classes for all fitness and experience levels, from a competition team 
 
 [Our Trainers](https://westsidemuaythai.com/instructors) have real experience from all around the world with an unrivaled passion for the sport, making sure that you get the most out of every session.
 
-## Important Steps To Train With Us
-
-We are operating under the [Muaythai Ontario](https://muaythaiontario.org) Guidelines to be compliant with government pandemic opening safety standards.
-
-Please sign our [COVID acceptance of risk document](https://www.gigaprofits.com/software/waiver.aspx?clb=RAJcwPGZD8hojWAZTX+aaG78R+iKXwqKYhkjTdtY44KsWd/6667UIw==&adm=+DOeNCdtIwlPFs5HkopokvEBP20nbuz6Pg677yqh3VtxtdV9SamOCQ==&termid=uNbOFU1ohqZlVaHpW1nLvlAZfL0TCGcS83JTOUibeaccRwonTMcvSg==&rlt=0).
-
-Arrive in (clean) training gear
-
-Do not come to the gym if you are feeling under the weather,or are displaying any symptoms of COVID-19
-
 _For your first time at Westside Muaythai, please [Contact Us](/contact)_
 
 ## Your first class is on us!
