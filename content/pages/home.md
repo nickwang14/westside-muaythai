@@ -26,11 +26,11 @@ _For your first time at Westside Muaythai, please [Contact Us](/contact)_
 
 All you need to bring is comfortable shorts or any athletic wear you feel comfortable sweating (a lot) in, and a water bottle.
 
-However, if you're experienced in Muaythai, we highly recommend you wear muaythai shorts, a pair of gloves, handwraps, as well as mouthguard and shinguards if you plan on/have been invited to sparring.
+However, if you're experienced in Muaythai, we highly recommend you wear muaythai shorts, a pair of gloves, handwraps, as well as mouthguard and shinguards if you plan on/have been invited to _spar_.
 
-### We also sell team branded gear at the gym
+#### We also sell team branded gear at the gym
 
-However, stock is limited and subject to our ordering process, here are some recommended options if you want gear now:
+However, stock is limited and subject to our ordering process, here are some other recommended options:
 
 - [Gloves](https://www.amazon.ca/RDX-Sparring-Training-Kickboxing-Punching/dp/B08MWSBKB6/ref=sr_1_1_sspa?crid=88V1AN44E72V&keywords=muay+thai+gloves&qid=1683644788&sprefix=muaythai+gloves%2Caps%2C72&sr=8-1-spons&psc=1&smid=A1XZFGTUY1OJKO&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExN1VSTjlaS0tXU05SJmVuY3J5cHRlZElkPUEwMDQxMzM3MTBNVzY4QTMxSjhROSZlbmNyeXB0ZWRBZElkPUEwNDU2Nzk2Q1dMWjM2UDExNk5ZJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==&_encoding=UTF8&tag=westsidemuayt-20&linkCode=ur2&linkId=1006b0325cc9599e2e70d996c36ccdc5&camp=15121&creative=330641)
 
@@ -51,3 +51,11 @@ If you're looking to compete, know that being in shape is a baseline requirement
 ## Are there any age restrictions to practice muaythai?
 
 Currently, we don't offer a good setup for children, so we recommend a minimum age of 14 years old. We do not have a maximum age limit, but we do require you to sign a safety waiver. Please let your instructor know if you have any health concerns regardless of your age!
+
+## Can I compete? How long does it take?
+
+We love it when members want to take the dive into competition! Ask your instructor about timelines and advanced classes for competition.
+
+You can definitely compete with Westside Muaythai, but note that you're representing our team, so it's up to the coaches' discretions if you're ready skill-wise and preparation-wise for a fight.
+
+Typically, we recommend that at least 6-8 months of training 3-5 days a week (at a minimum) before competing if you have no martial arts experience. Remember that combat sports can be dangerous, so we set these timelines for you safety as well as in respect for the active competitors who put that time and effort in at the gym.

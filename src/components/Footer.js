@@ -21,6 +21,7 @@ export default ({ globalSettings, socialSettings, navLinks }) => {
     <footer className='Footer'>
       <div className='container item'>
         <span>© 2021 All rights reserved.</span>
+        <>This page was last updated {Date.month(), Date.year()}</>
       </div>
       <div className='container item'>
         <div className='social'>
