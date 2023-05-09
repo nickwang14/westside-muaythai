@@ -17,7 +17,7 @@ export default ({ globalSettings, socialSettings, navLinks }) => {
     return () => window.removeEventListener('resize', handleResize);
   }, []);
   
-  const currentDate = Date.now().format('MMMM YYYY')
+  const currentDate = Date.now().toLocaleString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
 
   return (
     <footer className='Footer'>
