@@ -16,12 +16,14 @@ export default ({ globalSettings, socialSettings, navLinks }) => {
     window.addEventListener('resize', handleResize);
     return () => window.removeEventListener('resize', handleResize);
   }, []);
+  
+  const currentDate = Date.now().format('MMMM YYYY')
 
   return (
     <footer className='Footer'>
       <div className='container item'>
         <span>© 2021 All rights reserved.</span>
-        <>This page was last updated {Date.month(), Date.year()}</>
+        <>This page was last updated: {currentDate}</>
       </div>
       <div className='container item'>
         <div className='social'>
