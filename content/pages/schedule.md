@@ -1,6 +1,6 @@
 ---
 title: Our Schedule
-featuredImage: /images/uploads/schedule-2022-may.jpg
+featuredImage: /images/uploads/img_7940.jpeg
 subtitle: >-
   
 
