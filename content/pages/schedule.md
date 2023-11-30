@@ -1,6 +1,6 @@
 ---
 title: Our Schedule
-featuredImage: /images/uploads/img_7940.jpeg
+# featuredImage: /images/uploads/img_7940.jpeg
 subtitle: >-
   
 
