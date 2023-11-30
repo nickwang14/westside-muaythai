@@ -23,7 +23,7 @@ export default () => {
   }, [windowDimensions]);
 
   const expandNav = () => setShowNav(!showNav)
-  const closeNav = () => setShowNav(false)
+  const closeNav = () => windowDimensions.width <= 700 && setShowNav(false)
 
   return (
     <nav className='Nav'>
