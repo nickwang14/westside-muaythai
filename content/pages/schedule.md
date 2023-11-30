@@ -12,7 +12,7 @@ meta:
   title: ""
 ---
 
-![Class Schedule](/images/uploads/img_7940.jpg)
+![Class Schedule](/images/uploads/img_7940.jpeg)
 
 In order to provide the best possible training experience for all participants, we have decided to cap our class sizes at 28 individuals. We kindly request that you secure your spot in the class by [making a reservation](https://westsidemuaythai.as.me/).
 
