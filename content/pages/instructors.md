@@ -8,9 +8,8 @@ note: '![image alt #left](/images/uploads/andregym.jpg)'
 ---
 
 ## Andre Tokarcyk
-
-![image alt #left](/images/uploads/andregym.jpg)
-Andre started his Muay Thai Journey at Westside and is now a junior instructor with fight experience who breaks down skills and helps students improve quickly. Andre is passionate about helping people at all levels improve their skills and find the same joy he found in Muay Thai.
+|![image alt #left](/images/uploads/andregym.jpg)|Andre started his Muay Thai Journey at Westside and is now a junior instructor with fight experience who breaks down skills and helps students improve quickly. Andre is passionate about helping people at all levels improve their skills and find the same joy he found in Muay Thai.|
+|--|--|
 
 ## Antonio Arnold
 
