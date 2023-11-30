@@ -12,18 +12,6 @@ export default () => {
   const [windowDimensions, setWindowDimensions] = useState(getWindowDimensions());
   const [showNav, setShowNav] = useState(windowDimensions.width > 700)
 
-  // useEffect(() => {
-  //   window.addEventListener('resize', handleResize);
-  //   function handleResize() {
-  //     setWindowDimensions(getWindowDimensions());
-
-  //     setShowNav(windowDimensions.width > 700);
-  //   }
-
-  //   return () => window.removeEventListener('resize', handleResize);
-  // }, [windowDimensions]);
-
-
   useEffect(() => {
     function handleResize() {
       setWindowDimensions(getWindowDimensions());
