@@ -8,12 +8,13 @@ note: '![image alt #left](/images/uploads/andregym.jpg)'
 ---
 
 ## Andre Tokarcyk
-|![image alt #left](/images/uploads/andregym.jpg)|Andre started his Muay Thai Journey at Westside and is now a junior instructor with fight experience who breaks down skills and helps students improve quickly. Andre is passionate about helping people at all levels improve their skills and find the same joy he found in Muay Thai.|
-|--|--|
+
+![image alt #left](/images/uploads/andregym.jpg) 
+Andre started his Muay Thai Journey at Westside 7 years and is now instructor with fight experience who breaks down skills and helps students improve quickly. Andre is passionate about helping people at all levels improve their skills and find the same joy he found in Muay Thai.
 
 ## Antonio Arnold
 
-![image alt #right](/images/uploads/antoniothumbs.jpg)
+![image alt #left](/images/uploads/antoniothumbs.jpg)
 40 fights, multiple professional fights in Canada and Thailand. Antonio is a skilled technical fighter who is great at breaking down techniques. He has won the World Kickboxing Federation international title, and the Ontario provincial championship. Antonio is an instructor with great depth and understanding of Thai culture and competitive scoring in both North America and Thailand.
 
 ## Ben Pride
@@ -23,7 +24,7 @@ World Muaythai Council International Champion, USKA Champion, Victory Muaythai C
 
 ## Gram Stuart
 
-![image alt #right](/images/uploads/grambelt.jpg)
+![image alt #left](/images/uploads/grambelt.jpg)
 Max Muay Thai Global Fight Champion and TBA Champion, Gram's fought all over the world from the US, to Italy, and Thailand. He has extensive experience teaching and is great for those who learn by doing.
 
 ## Jasper Davenport
