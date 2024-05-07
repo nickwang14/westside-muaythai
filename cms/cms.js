@@ -3,7 +3,7 @@ import React from 'react'
 import '../src/globalStyles.css'
 import data from '../src/data.json'
 import Home from '../src/views/Home'
-// import About from '../src/views/About'
+import FAQ from '../src/views/FAQs'
 import Contact from '../src/views/Contact'
 // import Blog from '../src/views/Blog'
 // import SinglePost from '../src/views/SinglePost'
@@ -27,24 +27,24 @@ const posts = getDocuments('posts')
 CMS.registerPreviewTemplate('home-page', ({ entry }) => (
   <Home fields={entry.toJS().data} />
 ))
+
 // CMS.registerPreviewTemplate('about-page', ({ entry }) => (
 //   <About fields={entry.toJS().data} />
 // ))
 CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
   <Contact fields={entry.toJS().data} siteTitle={globalSettings.siteTitle} />
 ))
-// CMS.registerPreviewTemplate('blog-page', ({ entry }) => (
-//   <Blog fields={entry.toJS().data} posts={posts} />
-// ))
-// CMS.registerPreviewTemplate('posts', ({ entry }) => (
-//   <SinglePost fields={entry.toJS().data} />
-// ))
+
 CMS.registerPreviewTemplate('schedule', ({ entry }) => (
   <Home fields={entry.toJS().data} />
 ))
 
 CMS.registerPreviewTemplate('instructors', ({ entry }) => (
   <Home fields={entry.toJS().data} />
+))
+
+CMS.registerPreviewTemplate('faq-page', ({ entry }) => (
+  <FAQ fields={entry.toJS().data} />
 ))
 
 // Return to home when user logging out
