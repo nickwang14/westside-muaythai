@@ -15,6 +15,7 @@ import Nav from './components/Nav'
 import Footer from './components/Footer'
 import ServiceWorkerNotifications from './components/ServiceWorkerNotifications'
 import data from './data.json'
+import FAQ from './views/FAQ'
 // import { slugify } from './util/url'
 // import { documentHasTerm, getCollectionTerms } from './util/collection'
 
@@ -127,13 +128,13 @@ class App extends Component {
               fields={this.getDocument('pages', 'instructors')}
               siteTitle={siteTitle}
             />
-            {/* <RouteWithMeta
-              path='/services/'
+            <RouteWithMeta
+              path='/faq/'
               exact
-              component={Home}
-              fields={this.getDocument('pages', 'services')}
+              component={FAQ}
+              fields={this.getDocument('pages', 'faq')}
               siteTitle={siteTitle}
-            /> */}
+            />
             {/* <RouteWithMeta
               path='/blog/'
               exact
