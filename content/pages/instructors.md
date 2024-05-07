@@ -10,60 +10,77 @@ note: '![image alt #left](/images/uploads/andregym.jpg)'
 ## Andre Tokarcyk
 
 ![image alt #left](/images/uploads/andregym.jpg) 
-Andre started his Muay Thai Journey at Westside 7 years and is now instructor with fight experience who breaks down skills and helps students improve quickly. Andre is passionate about helping people at all levels improve their skills and find the same joy he found in Muay Thai.
+Meet Andre, a dedicated member of our martial arts family who embarked on his Muay Thai journey at Westside 8 years ago. Today, he stands as a respected instructor, drawing from his extensive fight experience to guide and inspire his students.
 
-## Antonio Arnold
+Andre's teaching philosophy revolves around breaking down complex skills into manageable components, facilitating rapid improvement and understanding. His passion for Muay Thai is contagious, as he strives to help individuals of all levels discover the same joy and fulfillment that this discipline has brought him.
 
-![image alt #left](/images/uploads/antoniothumbs.jpg)
-40 fights, multiple professional fights in Canada and Thailand. Antonio is a skilled technical fighter who is great at breaking down techniques. He has won the World Kickboxing Federation international title, and the Ontario provincial championship. Antonio is an instructor with great depth and understanding of Thai culture and competitive scoring in both North America and Thailand.
 
 ## Ben Pride
 
 ![image alt #left](/images/uploads/benpride.jpg)
-World Muaythai Council International Champion, USKA Champion, Victory Muaythai Champion (Montreal). Ben has 40 fights and fought professionally on some of the biggest international shows across the Americas and Thailand. Ben teaches any skill level and tailors to different body style, personally responsible for the success of some of our fighters.
+Ben, the owner of Westside Muaythai, holds titles such as World Muaythai Council International Champion, USKA Champion, and Victory Muaythai Champion in Montreal.
+
+Having accumulated over 40 fights and competed on some of the most prestigious international platforms across the Americas and Thailand, Ben brings a wealth of experience and expertise to the table. As an instructor, he possesses a unique ability to cater to students of any skill level and body type, ensuring that each individual receives personalized attention and guidance.
+
+Ben's influence extends beyond the classroom, as he has played a pivotal role in shaping the success of numerous fighters within our community. His dedication to the craft and unwavering commitment to his students serve as a testament to his passion for Muay Thai.
+
+## Dan Zhou
+
+![image alt #left](/images/uploads/dan.jpg)
+
+Meet Dan, a seasoned fighter with an impressive track record of 30 fights, including securing the Silvertooth kickboxing title in Montreal. Renowned for his unwavering dedication and consistency, Dan stands as one of our most committed athletes.
+
+In the ring, Dan's tenacity and skill shine through, earning him respect among his peers and adversaries alike. His disciplined approach to training and competition serves as a beacon of inspiration for aspiring fighters within our community.
+
 
 ## Gram Stuart
 
 ![image alt #left](/images/uploads/grambelt.jpg)
-Max Muay Thai Global Fight Champion and TBA Champion, Gram's fought all over the world from the US, to Italy, and Thailand. He has extensive experience teaching and is great for those who learn by doing.
+Gram, our distinguished instructor, holds accomplishments such as the Max Muay Thai Global Fight Champion and TBA Champion. His expertise extends far beyond the confines of the ring, having battled opponents across the globe in renowned venues from the US to Italy and Thailand.
 
-## Jasper Davenport
+With a wealth of experience under his belt, Gram is not only a seasoned competitor but also a masterful teacher. His teaching style is tailored for those who thrive through hands-on learning, making him an invaluable asset to our team. Whether in the ring or the classroom, Gram's passion for imparting knowledge and honing skills knows no bounds.
 
-> I like to pick exercises that challenge ranges of motion that we use in the sport, as well as bring up the strength of ranges we don't to build up injury resilience and overall strength.
+## James Mahoney
 
-Jasper has been involved in the sport of Muay Thai for a decade in which time he has spent 5+ years as an instructor and coach/padholder. Over the last few years he has shifted his own training from muay thai to more of a strength and movement quality focus. As a Registered Massage Therapist, he has developed a good understanding of the human body, movement, and exercise selection to complement Muay Thai training.
+Meet James, a co-founder of Westside Muay Thai and a master at dissecting the intricacies of body mechanics for the sport. With unparalleled expertise, James has played a pivotal role in refining the technique of our fighters, instilling in them the principles of balance and power.
 
-Jasper is available for 1 on 1 training for: Strength, hypertrophy, Muay Thai, and Mobility. In addition he can offer training programs of 4-6 weeks with online support and feedback.
+Through his meticulous guidance and keen understanding of biomechanics, James has helped shape the skills of our athletes, elevating their performance to new heights. His ability to break down complex movements into digestible components has empowered our fighters to achieve greater precision and effectiveness in the ring.
 
-Highlights:
+## Maddox Bower
+![image alt #left](/images/uploads/maddox.jpg) 
 
-- 2015 WKA National tournament champion 159 lb novice class
-- Registered Massage Therapist
-- FRCms ( Functional Range Conditioning mobility specialist)
-- Currently enrolled in CPPS level 1 certification for strength and conditioning
-- Has spent time in Thailand to hone his techniques and learn more about the nuances of the sport
-- Over 5 years of experience coaching and instructing Muay Thai
+Maddox, our dynamic young instructor, brings an unbeatable combination of passion and skill to our team. With an outstanding 10-1 record as a champion, Maddox embarked on his journey in 2019, driven by a desire to master self-defense. Since then, he has evolved into a remarkable athlete, demonstrating dedication and perseverance in every endeavor.
+
+Eager to pay forward his wealth of experience, Maddox has embraced the role of educator with enthusiasm. As one of our esteemed kids' instructors, he fosters an environment of growth and empowerment, instilling invaluable lessons both on and off the mat. With a natural flair for teaching, Maddox endeavors to inspire the next generation, igniting within them the same passion for martial arts that has fueled his own journey.
+
 
 ## Menad Sekhi
 
-Menad has been passionate about martial his entire life and started training Muay Thai in 2010. Since then he's competed multiples times with 3 wins coming by KO/TKO. 2015 TBA champion and 2016 WKF champion. His teaching style is built upon the authentic Westside Muay Thai training regiment with an emphasis on physical condition and using boxing techniques to add versatility to the students toolbox of Muay Thai weapons.
+Meet Menad, a lifelong devotee to the art of martial arts whose journey led him to embrace the discipline of Muay Thai in 2010. Since then, he has honed his skills through rigorous training and competition, amassing a remarkable record that includes multiple victories, with three wins secured by knockout or technical knockout.
+
+Menad's achievements speak volumes about his prowess in the ring, having earned the titles of TBA champion in 2015 and WKF champion in 2016. As an instructor, Menad channels his passion and expertise into his teaching style, which is deeply rooted in the authentic Westside Muay Thai training regimen.
+
+His approach emphasizes the importance of physical conditioning and utilizes boxing techniques to enhance the arsenal of Muay Thai weapons available to his students. With Menad as their guide, students embark on a transformative journey, mastering not only the techniques of Muay Thai but also cultivating the endurance and versatility necessary for success in the ring.
 
 ## Nick Wang
 
 ![image alt #left](/images/uploads/nickpose.jpg)
-2 Time TBA Champion, Nick has experience fighting in Thailand and competing with some of the top talent in his weight class here in Canada. With experience teaching a number of sports, Nick tailors his sessions to each student to help them improve as sustainably as posssible. He focuses on fundamentals and clean technique to help establish a strong base for beautiful, effective Muay Thai.
 
-## Vince Veys Germann
+Nick boasts the title of 2 Time TBA (Thai Boxing Association) Champion. Nick's journey has taken him from the rings of Thailand to the competitive arenas of Canada, where he has faced off against some of the top talent in his weight class.
 
-> I started training Muay Thai in January of 2011. I was trying to work out in the Highschool weight room, where I saw two guys from my bus play-sparring together. I asked them about it and they invited me to the gym to try it out. I guess you could say it was love at first fight 😉
+Drawing from his diverse background in teaching various sports, Nick brings a tailored approach to his Muay Thai sessions, ensuring that each student receives personalized attention to maximize their growth and development sustainably. His teaching philosophy centers around honing the fundamentals and perfecting clean technique, laying a strong foundation for the mastery of Muay Thai.
 
-> I was very overweight at the time, but formed a disciplined lifestyle through the sport. In addition to setting goals and competing, Muay Thai helped me lose 120 lbs. This lifestyle and transformative experience translated nicely to a career in facilitating others on a similar path. For me, maintaining that lifestyle and entering the ring to fight is the certificate of legitimacy in the industry.
+With Nick as their mentor, students embark on a journey of refinement and excellence, guided by his expertise and dedication to cultivating beautiful, effective Muay Thai.
 
-Vince has been training for a decade, with over 20 fights experience. Having undergone a life transformation through his love of the sport, he has a deep understanding of what it's like to fight against adversity and come out on top.
+## Noah Kirby 
 
-Highlights:
+Meet Noah, a dedicated athlete who embodies the value of hard work and determination in martial arts. Over four years of training with us, Noah has participated in 10 fights, showcasing his commitment to the sport. With a focus on clinching, Noah's strengths lie in his exceptional cardio and well-timed maneuvers in the ring. He pushes himself and his fellow students to work their hardest, leveraging his tenacity as a secret weapon in his fights. Join us as we train alongside Noah, embracing the ethos of hard work and perseverance on our martial arts journey.
 
-- 2x Ontario Provincial Champion
-- Fitness and Health Promotion Diploma at Algonquin College
-- Forming fundamental combative effectiveness and fight-psychology; as well as fitness and body weight-management strategy.
-- 4 years club and event Security work.
+## Wayne Palombo
+
+Wayne is a cornerstone of Westside Muay Thai and a driving force behind the gym's legacy. As one of our esteemed instructors and an original owner, Wayne has played an integral role in shaping the culture and success of our community.
+
+Wayne's influence extends far beyond the confines of the gym, as his expertise as a professor of mechanical engineering informs his methodical approach to teaching martial arts. With precision and care, he breaks down techniques and develops strategies, laying the groundwork for fighters to excel both inside and outside the ring.
+
+Throughout the years, Wayne has served as a mentor and guide to all of our coaches, imparting invaluable wisdom and knowledge that have become fundamental pillars of our training philosophy. His dedication and passion for the sport have left an indelible mark on Westside Muay Thai, inspiring generations of fighters to strive for greatness.
+
