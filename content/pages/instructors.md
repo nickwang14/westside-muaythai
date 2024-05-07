@@ -10,6 +10,7 @@ note: '![image alt #left](/images/uploads/andregym.jpg)'
 ## Andre Tokarcyk
 
 ![image alt #left](/images/uploads/andregym.jpg) 
+
 Meet Andre, a dedicated member of our martial arts family who embarked on his Muay Thai journey at Westside 8 years ago. Today, he stands as a respected instructor, drawing from his extensive fight experience to guide and inspire his students.
 
 Andre's teaching philosophy revolves around breaking down complex skills into manageable components, facilitating rapid improvement and understanding. His passion for Muay Thai is contagious, as he strives to help individuals of all levels discover the same joy and fulfillment that this discipline has brought him.
@@ -18,6 +19,7 @@ Andre's teaching philosophy revolves around breaking down complex skills into ma
 ## Ben Pride
 
 ![image alt #left](/images/uploads/benpride.jpg)
+
 Ben, the owner of Westside Muaythai, holds titles such as World Muaythai Council International Champion, USKA Champion, and Victory Muaythai Champion in Montreal.
 
 Having accumulated over 40 fights and competed on some of the most prestigious international platforms across the Americas and Thailand, Ben brings a wealth of experience and expertise to the table. As an instructor, he possesses a unique ability to cater to students of any skill level and body type, ensuring that each individual receives personalized attention and guidance.
@@ -36,6 +38,7 @@ In the ring, Dan's tenacity and skill shine through, earning him respect among h
 ## Gram Stuart
 
 ![image alt #left](/images/uploads/grambelt.jpg)
+
 Gram, our distinguished instructor, holds accomplishments such as the Max Muay Thai Global Fight Champion and TBA Champion. His expertise extends far beyond the confines of the ring, having battled opponents across the globe in renowned venues from the US to Italy and Thailand.
 
 With a wealth of experience under his belt, Gram is not only a seasoned competitor but also a masterful teacher. His teaching style is tailored for those who thrive through hands-on learning, making him an invaluable asset to our team. Whether in the ring or the classroom, Gram's passion for imparting knowledge and honing skills knows no bounds.
@@ -77,6 +80,8 @@ With Nick as their mentor, students embark on a journey of refinement and excell
 Meet Noah, a dedicated athlete who embodies the value of hard work and determination in martial arts. Over four years of training with us, Noah has participated in 10 fights, showcasing his commitment to the sport. With a focus on clinching, Noah's strengths lie in his exceptional cardio and well-timed maneuvers in the ring. He pushes himself and his fellow students to work their hardest, leveraging his tenacity as a secret weapon in his fights. Join us as we train alongside Noah, embracing the ethos of hard work and perseverance on our martial arts journey.
 
 ## Wayne Palombo
+![image alt #left](/images/uploads/westside-5.jpg)
+
 
 Wayne is a cornerstone of Westside Muay Thai and a driving force behind the gym's legacy. As one of our esteemed instructors and an original owner, Wayne has played an integral role in shaping the culture and success of our community.
 
