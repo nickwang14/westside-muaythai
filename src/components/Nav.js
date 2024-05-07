@@ -54,11 +54,14 @@ const NavBar = ({closeNav}) =>
   <NavLink to='/contact/' exact onClick={closeNav}>
     Contact
   </NavLink>
+  <NavLink to='/instructors/' exact onClick={closeNav}>
+    Instructors
+  </NavLink>
   {/* <NavLink to='/covid/' exact>
     Covid
   </NavLink> */}
-  <NavLink to='/instructors/' exact onClick={closeNav}>
-    Instructors
+  <NavLink to='/faq/' exact>
+    FAQs
   </NavLink>
   {/* <NavLink to='/services/' exact>
     Services

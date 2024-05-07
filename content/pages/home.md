@@ -18,7 +18,7 @@ We offer classes for all fitness and experience levels, from a competition team 
 ## Please book your classes in advanced
 Secure your spot in class now to guarantee your place on the mats! With limited space available and a maximum attendance cap of 30, booking in advance ensures that you won't miss out on the opportunity to train with us. Don't wait until the last minute—reserve your spot today and prioritize your martial arts journey.
 
-[Reserve Now](https://shorturl.at/cvGQ9){: .btn}
+[Reserve Now](https://shorturl.at/cvGQ9)
 
 ## Your first class is on us!
 
