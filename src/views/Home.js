@@ -18,8 +18,20 @@ export default ({ fields }) => {
       <div className='section'>
         <div className='container'>
           <Content source={body} />
+          <script src="https://embedsocial.com/js/iframe.js"></script>
+            <iframe style=
+              {{
+                border: 0, 
+                width: '100%', 
+                height: '100%'
+              }} 
+              scrolling="no" src="https://embedsocial.com/api/pro_hashtag/1dd5e27fe7b860079e795ac58fe52b8d9aa2b7a3" title="Instagram Feed"
+              >
+            </iframe>
+            <script>iFrameResize()</script>
         </div>
       </div>
+      
     </main>
   )
 }
