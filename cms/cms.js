@@ -3,6 +3,7 @@ import React from 'react'
 import '../src/globalStyles.css'
 import data from '../src/data.json'
 import Home from '../src/views/Home'
+import Generic from '../src/views/Generic'
 import Contact from '../src/views/Contact'
 // import Blog from '../src/views/Blog'
 // import SinglePost from '../src/views/SinglePost'
@@ -35,15 +36,15 @@ CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
 ))
 
 CMS.registerPreviewTemplate('schedule', ({ entry }) => (
-  <Home fields={entry.toJS().data} />
+  <Generic fields={entry.toJS().data} />
 ))
 
 CMS.registerPreviewTemplate('instructors', ({ entry }) => (
-  <Home fields={entry.toJS().data} />
+  <Generic fields={entry.toJS().data} />
 ))
 
 CMS.registerPreviewTemplate('faq', ({ entry }) => (
-  <Home fields={entry.toJS().data} />
+  <Generic fields={entry.toJS().data} />
 ))
 
 // Return to home when user logging out
