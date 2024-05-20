@@ -15,6 +15,14 @@ export default ({ fields }) => {
         backgroundImage={featuredImage}
       />
 
+      <a target="blank" href="https://www.google.com/maps/place/Westside+Muay+Thai/@45.3968784,-75.7217738,15z/data=!4m8!3m7!1s0x4cce0417876e60b3:0xffc921a98bb99ce5!8m2!3d45.3985562!4d-75.736223!9m1!1b1!16s%2Fg%2F11bbtfmjpr?entry=ttu">
+      <iframe src="https://embedsocial.com/api/pro_hashtag/be3f9795e621c7690977a937eaf52c594cb46f70" 
+      style={{ position:'absolute', left: '40%', top: '2.5%', width:'200px', height:'220px', border: '0'}}
+      frameborder="0" marginheight="0" marginwidth="0"
+      title="Reviews"> 
+      </iframe>
+      </a>
+
       <div className='section'>
         <div className='container'>
           <Content source={body} />
