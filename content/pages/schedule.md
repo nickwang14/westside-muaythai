@@ -6,7 +6,7 @@ meta:
   title: ""
 ---
 
-![Class Schedule](/images/uploads/img_7940.jpeg)
+![Class Schedule](/images/uploads/schedule-2024-may.png)
 
   # Class Scheduling Now Available
 
