@@ -15,7 +15,7 @@ export default ({ fields }) => {
         backgroundImage={featuredImage}
       />
 
-      <a 
+      {/* <a 
         target="blank" href="https://www.google.com/maps/place/Westside+Muay+Thai/@45.3968784,-75.7217738,15z/data=!4m8!3m7!1s0x4cce0417876e60b3:0xffc921a98bb99ce5!8m2!3d45.3985562!4d-75.736223!9m1!1b1!16s%2Fg%2F11bbtfmjpr?entry=ttu"
         style={{zIndex: '100'}}
       >
@@ -24,7 +24,7 @@ export default ({ fields }) => {
         frameborder="0" marginheight="0" marginwidth="0"
         title="Reviews"> 
         </iframe>
-      </a>
+      </a> */}
 
       <div className='section'>
         <div className='container'>
